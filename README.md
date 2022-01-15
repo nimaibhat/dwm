@@ -4,7 +4,9 @@
 Run these commands in your terminal:
 
 `git clone https://github.com/nbhat0/dwm`
+
 `cd dwm`
+
 `sudo make clean install`
 
 # Required dependencies
