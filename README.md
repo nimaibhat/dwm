@@ -16,6 +16,7 @@ If you want the autostart than just:
 In your home directory
 
 And if you want my dwmblocks build:
+
 `git clone https://github.com/nbhat0/dwm/tree/main/dwmblocks`
 
 `cd dwmblocks`
@@ -23,8 +24,8 @@ And if you want my dwmblocks build:
 `make clean install` as root
 
 # Required dependencies
-You need `libxft-bgra` for this to work, otherwise your dwm will crash on boot because of the icons in the status bar. Also, you will
-need to install `nerd-fonts-jetbrains-mono` through your AUR provider, it is the main font used in this build, and gives access to all 
+You need [`libxft-bgra`](https://aur.archlinux.org/packages/libxft-bgra/) for this to work, otherwise your dwm will crash on boot because of the icons in the status bar. Also, you will
+need to install [`nerd-fonts-jetbrains-mono`](https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono/) through your AUR provider, it is the main font used in this build, and gives access to all 
 the icons. 
 
 # Info about this rice
