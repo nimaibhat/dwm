@@ -7,7 +7,7 @@ Run these commands in your terminal:
 
 `cd dwm`
 
-`sudo make clean install`
+`make clean install` as root
 
 If you want the autostart than just:
 
