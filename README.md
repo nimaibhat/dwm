@@ -3,7 +3,7 @@
 # Installation
 Run these commands in your terminal:
 
-`git clone https://github.com/nbhat0/dwm`
+`git clone https://github.com/nbhat0/dwm/tree/main/dwm`
 
 `cd dwm`
 
