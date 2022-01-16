@@ -23,3 +23,20 @@ systray patch. On idle with no background programs, it still has under 300Mi of 
 * Padded status bar, with tags that can be customized to your liking
 * Nice keybinds (taken from Luke Smith's build of dwm)
 * Implemented systray patch for convenience
+
+# Patches applied (didn't keep track during build, this is what I remember)
+* attachaside
+* alpha
+* autostart
+* bar height
+* bar padding
+* cyclelayouts
+* fullscreen
+* rainbowtags
+* shiftview
+* stacker
+* status2d
+* sticky
+* swallow
+* underlinetags
+* vanitygaps
