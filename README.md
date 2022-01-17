@@ -1,5 +1,3 @@
-# Riced up dwm customization
-
 # Info about this rice
 This customization is much more bloated than a normal dwm install, it has likely 10+ patches applied, and has some big ones, like the
 systray patch. On idle with no background programs, it still has under 300Mi of RAM usage, which I'm good with, and I haven't seen any noticable dips in performance after applying these patches. I use dwmblocks for my status bar, as I think it's a bit better than an autostart script always running in the back. Inspiration for this build came from chadwm mostly for appearance and Luke Smith's for keybindings. 
