@@ -31,20 +31,3 @@ And if you want my dwmblocks build:
 You need [`libxft-bgra`](https://aur.archlinux.org/packages/libxft-bgra/) for this to work, otherwise your dwm will crash on boot because of the icons in the status bar. Also, you will
 need to install [`nerd-fonts-jetbrains-mono`](https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono/) through your AUR provider, it is the main font used in the dwm build as well as dwmblocks, and gives access to all 
 the icons. 
-
-# Patches applied (didn't keep track during build, this is what I remember)
-* attachaside
-* alpha
-* autostart
-* bar height
-* bar padding
-* cyclelayouts
-* fullscreen
-* rainbowtags
-* shiftview
-* stacker
-* status2d
-* sticky
-* swallow
-* underlinetags
-* vanitygaps
