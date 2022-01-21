@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	
 	{" ^c#81a1c1^  ", "dwmblocks/scripts/memory",	        				6,		        1},
 
-	{"",		"dwmblocks/scripts/volume",			    			0,		        10},
+	{"",		   "dwmblocks/scripts/volume",			    			0,		        10},
 
 	{"^c#FF6961^   ", "dwmblocks/scripts/clock",						5,		        0},
 };
