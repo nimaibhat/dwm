@@ -2,9 +2,9 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/	 							/*Update Interval*/	/*Update Signal*/
 
-	{" ^c#30D5C8^  ", "/home/gbhat08/dwmblocks/scripts/pacupdate",		360,		        9},
+	{" ^c#a3be8c^  ", "/home/gbhat08/dwmblocks/scripts/pacupdate",		360,		        9},
 	
-	{" ^c#ebcb8b^  ", "/home/gbhat08/dwmblocks/scripts/memory",	        6,		            1},
+	{" ^c#81a1c1^  ", "/home/gbhat08/dwmblocks/scripts/memory",	        6,		            1},
 
 	{"", "/home/gbhat08/dwmblocks/scripts/volume",			    0,		            10},
 
