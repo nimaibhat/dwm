@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# systemctl --user import-environment DISPLAY &
+picom --experimental-backends -b &
+xwallpaper --zoom ~/.config/wall.png &
+# ~/scripts/misc/./randomWallpaper.sh &
+# /usr/bin/syncthing serve --no-browser --logfile=default &
+ckb-next --background &
+nm-applet &
+clipmenud &
+dunst &
+mictray & 
+xrdb merge ~/.Xresources
+
+# run bar script and dwm ( do not remove this )
+~/.config/dwm/scripts/./bar.sh &
+dwm
